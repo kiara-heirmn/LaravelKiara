@@ -88,7 +88,7 @@ class BlogController extends Controller
         $blog->update($request->all());
   
         return redirect()->route('blogs.index')
-                        ->with('success','Blog updated successfully');
+                        ->with('success!','Blog updated successfully');
     }
 
     /**
