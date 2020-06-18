@@ -1,0 +1,29 @@
+[33mcommit 69a2282baa72ae815ffa9e45af44ee338d69977e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Kiara Heirman <kiara.heirman@student.kdg.be>
+Date:   Thu Jun 18 23:57:17 2020 +0200
+
+    Connection with Combell Database
+
+[33mcommit 225119ab91f8b49b431ebf7d2395115bca3c6985[m
+Author: Kiara Heirman <kiara.heirman@student.kdg.be>
+Date:   Mon Apr 20 11:43:02 2020 +0200
+
+    Add public htaccess
+
+[33mcommit 8f5429bdd2090742cbc0243aaf1804777448b103[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Kiara Heirman <kiara.heirman@student.kdg.be>
+Date:   Fri Mar 13 14:37:59 2020 +0100
+
+    Change success text in BlogController
+
+[33mcommit 6d8c1b4678cb96063763fd2f5467d9b5525bed69[m
+Author: Kiara Heirman <kiara.heirman@student.kdg.be>
+Date:   Fri Mar 13 14:29:10 2020 +0100
+
+    All the files of the LaravelOpdracht
+
+[33mcommit a67248f3f4c39bb836d746f1618eae1ecdad18fb[m
+Author: Kiara Heirman <kiara.heirman@student.kdg.be>
+Date:   Fri Mar 13 14:25:45 2020 +0100
+
+    Initial commit
